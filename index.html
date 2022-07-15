@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/3bda5f02ab.js" crossorigin="anonymous"></script>
+    <link href="styles.css" type="text/css" rel="stylesheet">
+    <title>Cookie clicker</title>
+</head>
+<body>
+    <div class="cookieContainer">
+        <p class="score">0</p>
+        <i class="fa-solid fa-cookie" onclick="cookieHandler()"></i>
+    </div>
+    <div class="shopContainer">
+        <div class="triangle" onclick="shopHandler()"></div>
+        <p class="shopTextMain">Shop</p>
+        <div class="shop-grid">
+            <div class="color-tab tab">
+                <p class="tabText">Colors</p>
+                <input type="radio" name="activateTab" class="check color">
+                <div class="brass"></div>
+                <p class="name n1">Brass</p>
+                <div class="almond"></div>
+                <p class="name n2">Almond</p>
+                <div class="nude"></div>
+                <p class="name n3">Nude</p>
+                <div class="cinnamon"></div>
+                <p class="name n4">Finnamon</p>
+                <div class="fawn"></div>
+                <p class="name n5">Fawn</p>
+                <div class="fallow"></div>
+                <p class="name n6">Fallow</p>
+                <div class="russet"></div>
+                <p class="name n7">Russet</p>
+                <div class="sienna"></div>
+                <p class="name n8">Sienna</p>
+                <div class="maroon"></div>
+                <p class="name n9">Maroon</p>
+            </div>
+            <div class="upgrade-tab tab">
+                <p class="tabText">Upgrades</p>
+                <input type="radio" name="activateTab" class="check upgrade">
+            </div>
+            <div class="buy-currency tab">
+                <p class="tabText">Buy currency</p>
+                <input type="radio" name="activateTab" class="check currency">
+            </div>
+        </div>
+    </div>
+    <script src="cookies.js"></script>
+</body>
+</html>

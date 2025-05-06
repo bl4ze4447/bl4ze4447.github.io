@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.08cb2223.css",
-    "main.js": "/static/js/main.31867d8d.js",
+    "main.js": "/static/js/main.ad3e6486.js",
     "static/js/453.2965c4ab.chunk.js": "/static/js/453.2965c4ab.chunk.js",
     "static/media/roFlag.png": "/static/media/roFlag.a840f8d38763fd8fd2ab.png",
     "index.html": "/index.html",
     "main.08cb2223.css.map": "/static/css/main.08cb2223.css.map",
-    "main.31867d8d.js.map": "/static/js/main.31867d8d.js.map",
+    "main.ad3e6486.js.map": "/static/js/main.ad3e6486.js.map",
     "453.2965c4ab.chunk.js.map": "/static/js/453.2965c4ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08cb2223.css",
-    "static/js/main.31867d8d.js"
+    "static/js/main.ad3e6486.js"
   ]
 }

@@ -4,15 +4,15 @@
     <loc>https://wordle-ro.com/</loc>
   </url>
   <url>
-    <loc>https://wordle-ro.com/nivele</loc>
+    <loc>https://wordle-ro.com/#/nivele</loc>
   </url>
   <url>
-    <loc>https://wordle-ro.com/cuvantul-zilei</loc>
+    <loc>https://wordle-ro.com/#/cuvantul-zilei</loc>
   </url>
   <url>
-    <loc>https://wordle-ro.com/cum-se-joaca</loc>
+    <loc>https://wordle-ro.com/#/cum-se-joaca</loc>
   </url>
   <url>
-    <loc>https://wordle-ro.com/contul-meu</loc>
+    <loc>https://wordle-ro.com/#/contul-meu</loc>
   </url>
 </urlset>
